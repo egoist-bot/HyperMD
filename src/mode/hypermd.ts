@@ -7,8 +7,6 @@
 import * as CodeMirror from "codemirror"
 import "codemirror/mode/markdown/markdown"
 
-import "./hypermd.css"
-
 /**
  * Markdown Extension Tokens
  *

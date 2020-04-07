@@ -18,7 +18,7 @@
     "watch_js": "tsc -w --sourceMap --sourceRoot /src",
     "watch_css": "node dev/build-css.js -w",
     "pretest": "cd test && tsc && node tools/prepare",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"pls test it manually for now\"",
     "prepublishOnly": "npm run build"
   },
   "keywords": [
